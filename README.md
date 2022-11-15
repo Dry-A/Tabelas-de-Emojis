@@ -1569,7 +1569,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#flags) | :england: | `:england:` | :scotland: | `:scotland:` | [top](#table-of-contents) |
 | [top](#flags) | :wales: | `:wales:` | | | [top](#table-of-contents) |
 
-### GitHub Custom Emoji
+### GitHub Custom Emojie
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
